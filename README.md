@@ -1,1 +1,2 @@
-# Bullet-Train-Analysis
+## STAT 306 Project - Shinkansen Bullet Train Experience
+
